@@ -1,0 +1,23 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2023-05-19 11:56:04.979008",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2023-05-19 11:56:04.986249",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2023-05-19 11:56:04.994187",
+  "name": "Review",
+  "workflow_action_name": "Review"
+ }
+]
